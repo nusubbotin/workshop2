@@ -1,0 +1,404 @@
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T123115.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T123113.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T123111.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T123110.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T123108.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T123100.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T123058.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T123048.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T123046.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T123039.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T123035.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T123032.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T123030.200.json
+
+###
+
+GET http://localhost:8080/employee
+
+<> 2022-11-14T123016.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 1000
+}
+
+<> 2022-11-14T123013.200.json
+
+###
+
+GET http://localhost:8080/employee
+
+<> 2022-11-14T123010.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T120400.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T120358.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120355.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120354.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T120346.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 1000
+}
+
+<> 2022-11-14T120343.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 3000
+}
+
+<> 2022-11-14T120338.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 2000
+}
+
+<> 2022-11-14T120332.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T120203.404.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T120201.404.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120156.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120154.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T120151.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T120149.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T120143.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T120137.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120130.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T120124.200.json
+
+###
+
+GET http://localhost:8080/employee/high-salary
+
+<> 2022-11-14T120107.404.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 2000
+}
+
+<> 2022-11-14T115841.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 3000
+}
+
+<> 2022-11-14T115831.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 1000
+}
+
+<> 2022-11-14T115824.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T114721.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/min
+
+<> 2022-11-14T114718.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/max
+
+<> 2022-11-14T114715.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 1000
+}
+
+<> 2022-11-14T114713.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 3000
+}
+
+<> 2022-11-14T114709.200.json
+
+###
+
+GET http://localhost:8080/employee/salary/sum
+
+<> 2022-11-14T114004.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 3000
+}
+
+<> 2022-11-14T113959.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 2000
+}
+
+<> 2022-11-14T113955.200.json
+
+###
+
+GET http://localhost:8080/employee
+
+<> 2022-11-14T113045.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 2000
+}
+
+<> 2022-11-14T113042.200.json
+
+###
+
+GET http://localhost:8080/employee
+
+<> 2022-11-14T113022.200.json
+
+###
+
+POST http://localhost:8080/employee
+Content-Type: application/json
+
+{
+  "firstName": "Test",
+  "lastName": "Test",
+  "department": 1,
+  "salary": 1000
+}
+
+<> 2022-11-14T113004.200.json
+
+###
+
